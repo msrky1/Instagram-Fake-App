@@ -1,0 +1,29 @@
+.body {
+
+    background-color: black;
+} 
+
+.col {
+
+
+    margin-top: center;
+    height: 120px;
+    width: 120px;
+
+  
+}
+.input {
+
+    text-align: justify;
+    color: #000;
+
+}
+button {
+
+
+    border-radius: 10px;
+    border-color: blanchedalmond;
+    text-align: center;
+    text-emphasis-color: white;
+    
+}
